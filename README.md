@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am Kalenga Mumba. I am from Charlottesville, VA. I am a 2nd year at the University of Virginia. I plan on majoring in Data Science.
+
 <!--
 **KCM2005/KCM2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
